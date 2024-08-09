@@ -4,7 +4,7 @@
 Final project created for the course **Digital logic design** at Politecnico di Milano.
 It was also part of the final examination projects for the BSc in Computer Science and Engineering.  
 
-This solution achieved the maximum grade of 30 cum laude/30.
+This solution achieved the maximum grade of 30 Cum Laude/30.
 
 ## Tools
 * VHDL (VHSIC Hardware Description Language)
